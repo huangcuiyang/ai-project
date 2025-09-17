@@ -10,6 +10,7 @@
   * ClickHouse: >=23.2.5.107
   * StarRocks: >=4.0
 * 部署环境： Kubernetes (支持分布式部署)
+* 数据同步协议：Apache Arrow Flight SQL
 
 ## 核心功能需求
 1. 策略驱动的数据同步：
