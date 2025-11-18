@@ -1,0 +1,26 @@
+# Web版智能体系统依赖包
+
+# Flask核心
+Flask==3.0.0
+Flask-SocketIO==5.3.6
+Flask-SQLAlchemy==3.1.1
+Flask-Login==0.6.3
+
+# WebSocket支持
+python-socketio==5.11.0
+python-engineio==4.8.0
+eventlet==0.35.1
+
+# 数据库
+SQLAlchemy==2.0.25
+
+# 密码加密
+bcrypt==4.1.2
+
+# AI相关（已安装）
+langchain
+langchain-openai
+langgraph
+
+# 其他工具
+python-dotenv==1.0.0
